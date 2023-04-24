@@ -1,6 +1,6 @@
 
 import java.util.Random; //import Random class
-public class MaxAndMin {
+public class play {
     public static void main(String[] args) {
         Random rand = new Random(); //initiate Random instance called rand
         //int funNum = rand.nextInt(10) + 1; //bound is 1 to 10 (without +1, 0 - 10)
